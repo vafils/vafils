@@ -2,10 +2,12 @@
 what I've learned so far in preparing for my Cyber Security Journey:
 
 Hardware and Operating System Fundamentals. 
+
 Hardware and Operating System Fundamentals is a course containing information not limited to Hardware, operating systems, network and security fundamentals, which also discuss about managing components and storage, security threats, vulnerabilities and controls in place.
 
 Networking and Security Fundamentals
-This course enables me to identifying security fundamentals and threats, analyzing risk, conducting security assessments, implementing network, operational , host, and software security, managing identity and access, implementing cryptography, addressing security issues, and ensuring business continuity.
+
+These courses enable me to identifying security fundamentals and threats, analyzing risk, conducting security assessments, implementing network, operational , host, and software security, managing identity and access, implementing cryptography, addressing security issues, and ensuring business continuity.
 
 Python Programming: Introduction
 
