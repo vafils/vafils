@@ -1,5 +1,5 @@
 ### Hi there 👋 I'am Antoine!
-what I've learned so far in preparing for my Cyber Security Journey:
+Here is what I've learned and accomplished so far in preparing for my Cyber Security Journey:
 
 Hardware and Operating System Fundamentals. 
 
