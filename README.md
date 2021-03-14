@@ -12,4 +12,7 @@ These courses enable me to identifying security fundamentals and threats, analyz
 Python Programming: Introduction
 
 Security Bootcamp: 4 diffrent projects 
+
 These are projects of Information Security Boot Camp program, intended to guide you step by step on the requirements to create a specific project based on your learning from previous course. These projects tested hands-on skills using various tools and best practices that are necessary for an Information Security Professional.
+ 
+ Completed a capstone Project PENTEST+
